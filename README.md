@@ -4,6 +4,8 @@ Mes tutoriels WordPress
 Tutoriel WordPress sur la création d'un simple plugin /une simple extension.
 
 ## Les tutoriels
-- Créer une simple extension WordPress : ![TUTO](plugin/page_plugin.md)
+- Créer une simple extension WordPress
 
-Idée de tutoriel repris de https://github.com/Montage203/wordpress
+Tous les tutoriels sont disponible uniquement en PDF. 
+
+Idée de tutoriel repris de (https://github.com/Montage203/wordpress)
